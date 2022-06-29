@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Whatsapp</string>
+
+    <string name="btnFrag1">Chats</string>
+    <string name="btnFrag2">States</string>
+    <string name="btnFrag3">Calls</string>
+    <string name="search">Search</string>
+    <string name="photo">Photo</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="send">Send</string>
+</resources>
