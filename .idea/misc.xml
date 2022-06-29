@@ -3,10 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidStudioProyects/Whatsapp/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProyects/Whatsapp/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidStudioProyects/Whatsapp/app/src/main/res/layout/fragment_first.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidStudioProyects/Whatsapp/app/src/main/res/layout/fragment_second.xml" value="0.35260416666666666" />
         <entry key="..\:/AndroidStudioProyects/Whatsapp/app/src/main/res/layout/fragment_third.xml" value="0.35260416666666666" />
+        <entry key="..\:/AndroidStudioProyects/Whatsapp/app/src/main/res/layout/item_contacts.xml" value="0.358695652173913" />
         <entry key="..\:/AndroidStudioProyects/Whatsapp/app/src/main/res/menu/fragment_menu.xml" value="0.36666666666666664" />
       </map>
     </option>
